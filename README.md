@@ -1,7 +1,5 @@
 # SWYNEX-Interactive-Dashboard
 
-# SWYNEX Technologies Power BI Internship - Task 3: Interactive Dashboard
-
 ## Project Overview
 This repository contains the interactive Power BI dashboard developed for Task 3 of the SWYNEX Technologies Power BI Internship. Building upon the cleaned dataset (Task 1) and the Star Schema data model with DAX measures (Task 2), this report provides business stakeholders with an executive overview of Superstore sales and profitability performance.
 
